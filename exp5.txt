@@ -1,0 +1,22 @@
+exp5	
+
+random integer generator
+set size = 2
+
+for scope 
+no. of input ports
+layout 4
+
+error rate calculation
+set output data = port
+
+run experiment for 50 time units
+
+in display,
+first row  - BER
+second row - Total Error
+third row  - Total bits Tx
+
+AWGN channel
+Eb/No - lower  - result in BER, error and waveform disagreements
+value = -10
